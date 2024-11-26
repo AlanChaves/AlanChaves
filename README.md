@@ -40,6 +40,8 @@
 ## 🌟 Projetos de Destaque  
 - **[DevAll Tech](https://www.devalltech.com.br/)**: Plataforma web interativa desenvolvida em React.
 - **Economize - [Android](https://play.google.com/store/apps/details?id=br.com.devalltech.economize_app) e [iOS](https://apps.apple.com/br/app/economize-controle-financeiro/id6444318126)**:  Aplicativo mobile construído em Flutter, utilizado por milhares de usuários.
+- **Clique Comida - [Android](https://play.google.com/store/apps/details?id=com.embarcadero.ClickComida&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/clique-comida/id1210743719)**:  Aplicativo mobile construído em Flutter com backend em Node.js.
+- **[Celetus](https://dash.celetus.com)**: Plataforma web desenvolvida em React com APIs modernas em C#.    
 
 ---
 
